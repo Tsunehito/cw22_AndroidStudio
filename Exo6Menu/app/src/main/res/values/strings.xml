@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exo6 - Menu</string>
+    <string name="main_menu_btn_2">Btn 2</string>
+    <string name="main_menu_btn_1">Btn 1</string>
+    <string name="main_menu_btn_3">Exit</string>
+    <string name="context_menu_btn_1">Btn C1</string>
+    <string name="context_menu_btn_2">Btn C2</string>
+</resources>

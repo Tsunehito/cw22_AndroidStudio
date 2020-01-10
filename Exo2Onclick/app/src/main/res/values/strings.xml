@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exo2 - Onclick</string>
+    <string name="btn">Btn 1</string>
+    <string name="btn2">Btn 2</string>
+
+    <string name="toast_btn">text btn 1</string>
+    <string name="toast_btn2">text btn 2</string>
+</resources>

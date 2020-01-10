@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exo8 - thread</string>
+    <string name="sans_thread">Sans Thread</string>
+    <string name="avec_thread">Avec Thread</string>
+    <string name="title_pd">Waiting</string>
+    <string name="message_pd">wait</string>
+    <string name="load_data">Load Data</string>
+    <string name="descriptionImageData">Description Image</string>
+    <string name="loadData">Load</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exo4 -ReturnIntent</string>
+    <string name="send_to_second_activity">Send to second Activity</string>
+    <string name="error">Input is empty</string>
+    <string name="btnSecond">Send to main</string>
+    <string name="Name">Name</string>
+</resources>

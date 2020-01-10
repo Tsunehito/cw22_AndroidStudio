@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Exo Gallery</string>
+    <string name="error_url">Error Url</string>
+    <string name="error_io">Error connection</string>
+    <string name="error_json">Error response</string>
+    <string name="imageDescription">description</string>
+</resources>
